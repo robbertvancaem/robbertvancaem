@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**robbertvancaem/robbertvancaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative Frontend Developer who likes to: 
 
-Here are some ideas to get you started:
+- 🤔 Ask 'why' an awful lot of times
+- 🤓 Do the additional backend implementation
+- 🥊 Challenge each other (for example in Code Reviews)
+- ⚡️ Think about improvements in the overall process (not only coding)
+- 📖 Create and maintain documentation
+- 🧪 Create and maintain tests
+- 🎟 Create meaningful tickets and actually update them
+- 🧑🏽‍🎓 Keep on learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently I'm catching up on my Next.js skills
+🎶 I'm into either very loud music (hardcore metal) or guilty pleasures like Taylor Swift and Katy Perry
