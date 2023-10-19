@@ -10,8 +10,8 @@ I'm a creative Frontend Developer who likes to:
 - 🧪 Create and maintain tests
 - 🎟 Create meaningful tickets and actually update them
 - 🧑🏽‍🎓 Keep on learning
-- 🖊 Write blogs every now and then (see robbertvancaem.com)
+- 🖊 Write blogs every now and then (see [robbertvancaem.com](https://robbertvancaem.com/))
 
-🌱 Currently I'm catching up on my Next.js skills (by working on my own website)
+🌱 Currently I'm catching up on my Next.js skills (by working on my new personal website)
 
 🎶 I'm into either very loud music (hardcore metal) or guilty pleasures like Taylor Swift and Katy Perry
